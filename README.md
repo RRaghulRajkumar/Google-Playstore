@@ -62,7 +62,7 @@ Contributions to this project are welcome! Feel free to open issues, provide fee
 ### Email:
 If you are interested in accessing the dataset used in this project, please feel free to contact me via email. I would be happy to share the dataset and any relevant information.
 
-**Email Address:** [rraghulrajkumar@example.com](mailto:rraghulrajkumar@gmail.com)
+**Email Address:** [rraghulrajkumar@gmail.com](mailto:rraghulrajkumar@gmail.com)
 
 ### LinkedIn:
 You can also connect with me on LinkedIn for dataset access and any further discussions related to this project or data analysis.
