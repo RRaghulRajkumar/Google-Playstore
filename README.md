@@ -31,7 +31,7 @@ To reproduce this EDA or explore the analysis further, follow these steps:
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/RRaghulRajkumar/Google-Playstore
+   git clone https://github.com/RRaghulRajkumar/Google-Playstore.git
    cd google-playstore-eda
    ```
 
