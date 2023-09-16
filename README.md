@@ -72,7 +72,7 @@ You can also connect with me on LinkedIn for dataset access and any further disc
 Please don't hesitate to reach out if you have any questions or require additional information about the dataset or the analysis. I look forward to connecting with you!
 
 Best regards,
-[Raghul Rajkumar.R]
+Raghul Rajkumar.R
 - Special thanks to the open-source community for valuable libraries and tools used in this analysis.
 
 Happy Exploring! 🚀📊
