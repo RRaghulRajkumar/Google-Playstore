@@ -32,7 +32,7 @@ To reproduce this EDA or explore the analysis further, follow these steps:
 1. **Clone the Repository**:
    ```
    git clone https://github.com/RRaghulRajkumar/Google-Playstore.git
-   cd google-playstore-eda
+   cd playstore-Dataset-main
    ```
 
 2. **Install Dependencies**:
@@ -42,7 +42,7 @@ To reproduce this EDA or explore the analysis further, follow these steps:
 
 3. **Run the Jupyter Notebook**:
    ```
-   jupyter notebook Google_Play_Store_EDA.ipynb
+   jupyter notebook Google-Playstore-EDA.ipynb
    ```
 
 4. **Explore the Analysis**:
